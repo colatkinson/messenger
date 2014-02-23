@@ -1,0 +1,4 @@
+2014-02-22  Colin Atkinson  <colin.william.atkinson@gmail.com>
+    * Initial commit
+    * Support for text-only mode and a Swing GUI
+    * Run as server (ie. forward messages along to others)
