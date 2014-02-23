@@ -29,8 +29,8 @@
           <span>Downloads:</span>
           <ul>
             <li><a href="https://github.com/colatkinson/messenger/releases/download/v1.0/messenger-1.0.jar" class="button">JAR</a></li>
-            <li><a href="https://github.com/colatkinson/messenger/zipball/master" class="button">ZIP (Source)</a></li>
-            <li><a href="https://github.com/colatkinson/messenger/tarball/master" class="button">TAR (Source)</a></li>
+            <li><a href="https://github.com/colatkinson/messenger/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/colatkinson/messenger/tarball/master" class="button">TAR</a></li>
           </ul>
         </div>
       </div><!-- end banner -->
