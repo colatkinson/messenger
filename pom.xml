@@ -39,31 +39,6 @@
           <target>5</target>
         </configuration>
       </plugin>
-      <plugin>
-        <groupId>com.mycila</groupId>
-        <artifactId>license-maven-plugin</artifactId>
-        <version>1.0</version>
-        <configuration>
-            <header>com/mycila/maven/plugin/license/templates/GPL-3.txt</header>
-            <properties>
-                <owner>Colin Atkinson</owner>
-                <year>${project.inceptionYear}</year>
-                <email>colin.william.atkinson@gmail.com</email>
-            </properties>
-            <excludes>
-                <exclude>**/README</exclude>
-                <exclude>src/test/resources/**</exclude>
-                <exclude>src/main/resources/**</exclude>
-            </excludes>
-        </configuration>
-        <executions>
-            <execution>
-                <goals>
-                    <goal>check</goal>
-                </goals>
-            </execution>
-        </executions>
-      </plugin>
     </plugins>
   </build>
   <dependencies>
